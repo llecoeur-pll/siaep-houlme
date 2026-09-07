@@ -4,6 +4,11 @@ defaultContentLanguage = 'fr'
 title = 'SIAEP du Houlme'
 theme = 'siaep-houlme'
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 [params]
   description = "Syndicat intercommunal d'adduction d'eau potable du Houlme"
 
