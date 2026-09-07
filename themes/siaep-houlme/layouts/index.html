@@ -1,0 +1,27 @@
+{{ define "main" }}
+  <section class="hero">
+    <div class="container hero__content">
+      <p class="eyebrow">SIAEP du Houlme</p>
+      <h1>Une eau de qualité pour notre territoire</h1>
+      <p class="hero__lead">Le Syndicat intercommunal d'adduction d'eau potable du Houlme vous accompagne au quotidien.</p>
+    </div>
+  </section>
+  <section class="container page-section">
+    <div class="section-heading">
+      <p class="eyebrow">À découvrir</p>
+      <h2>Les grands domaines du Syndicat</h2>
+    </div>
+    <div class="card-grid">
+      {{ range where .Site.Menus.main "HasChildren" true }}
+        <a class="card" href="{{ .URL }}">
+          <h3>{{ .Name }}</h3>
+          <span class="card__link">En savoir plus <span aria-hidden="true">→</span></span>
+        </a>
+      {{ end }}
+      <a class="card" href="{{ "travaux/" | relURL }}">
+        <h3>Travaux</h3>
+        <span class="card__link">En savoir plus <span aria-hidden="true">→</span></span>
+      </a>
+    </div>
+  </section>
+{{ end }}

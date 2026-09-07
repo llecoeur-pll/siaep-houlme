@@ -1,0 +1,8 @@
+name = 'SIAEP du Houlme'
+license = 'MIT'
+licenselink = ''
+description = 'Thème institutionnel du SIAEP du Houlme'
+min_version = '0.120.0'
+
+[author]
+  name = 'SIAEP du Houlme'

@@ -1,3 +1,74 @@
-baseURL = 'https://example.org/'
-locale = 'en-us'
-title = 'My New Hugo Project'
+baseURL = '/'
+locale = 'fr-FR'
+defaultContentLanguage = 'fr'
+title = 'SIAEP du Houlme'
+theme = 'siaep-houlme'
+
+[params]
+  description = "Syndicat intercommunal d'adduction d'eau potable du Houlme"
+
+[[menus.main]]
+  name = 'Le Syndicat'
+  pageRef = '/le-syndicat'
+  identifier = 'le-syndicat'
+  weight = 10
+
+[[menus.main]]
+  name = "L'histoire"
+  pageRef = '/le-syndicat/histoire'
+  parent = 'le-syndicat'
+  weight = 10
+
+[[menus.main]]
+  name = 'Les chiffres'
+  pageRef = '/le-syndicat/chiffres'
+  parent = 'le-syndicat'
+  weight = 20
+
+[[menus.main]]
+  name = 'Les compétences'
+  pageRef = '/le-syndicat/competences'
+  parent = 'le-syndicat'
+  weight = 30
+
+[[menus.main]]
+  name = 'La gouvernance'
+  pageRef = '/le-syndicat/gouvernance'
+  parent = 'le-syndicat'
+  weight = 40
+
+[[menus.main]]
+  name = "L'eau du territoire"
+  pageRef = '/eau-du-territoire'
+  identifier = 'eau-du-territoire'
+  weight = 20
+
+[[menus.main]]
+  name = 'Captage'
+  pageRef = '/eau-du-territoire/captage'
+  parent = 'eau-du-territoire'
+  weight = 10
+
+[[menus.main]]
+  name = 'Traitement'
+  pageRef = '/eau-du-territoire/traitement'
+  parent = 'eau-du-territoire'
+  weight = 20
+
+[[menus.main]]
+  name = 'Distribution'
+  pageRef = '/eau-du-territoire/distribution'
+  parent = 'eau-du-territoire'
+  weight = 30
+
+[[menus.main]]
+  name = 'Qualité'
+  pageRef = '/eau-du-territoire/qualite'
+  parent = 'eau-du-territoire'
+  weight = 40
+
+[[menus.main]]
+  name = 'Travaux'
+  pageRef = '/travaux'
+  identifier = 'travaux'
+  weight = 30

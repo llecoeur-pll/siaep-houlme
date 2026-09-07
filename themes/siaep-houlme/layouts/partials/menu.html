@@ -1,0 +1,13 @@
+{{- $page := .page -}}
+{{- range .items }}
+  <li class="main-nav__item{{ if .HasChildren }} main-nav__item--has-children{{ end }}">
+    <a href="{{ .URL }}"{{ if or ($page.IsMenuCurrent "main" .) ($page.HasMenuCurrent "main" .) }} aria-current="page"{{ end }}>
+      {{ .Name }}{{ if .HasChildren }} <span class="main-nav__chevron" aria-hidden="true">⌄</span>{{ end }}
+    </a>
+    {{ if .HasChildren }}
+      <ul class="main-nav__submenu">
+        {{ partial "menu.html" (dict "items" .Children "page" $page) }}
+      </ul>
+    {{ end }}
+  </li>
+{{- end }}

@@ -1,0 +1,13 @@
+<header class="site-header">
+  <div class="container site-header__inner">
+    <a class="brand" href="{{ "/" | relURL }}" aria-label="Accueil du SIAEP du Houlme">
+      <span class="brand__mark" aria-hidden="true">◌</span>
+      <span><strong>SIAEP</strong><small>du Houlme</small></span>
+    </a>
+    <nav class="main-nav" aria-label="Navigation principale">
+      <ul class="main-nav__list">
+        {{ partial "menu.html" (dict "items" site.Menus.main "page" .) }}
+      </ul>
+    </nav>
+  </div>
+</header>
