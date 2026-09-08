@@ -1,4 +1,4 @@
-baseURL = 'https://llecoeur-pll.github.io/siaep-houlme/'
+baseURL = '/'
 locale = 'fr-FR'
 defaultContentLanguage = 'fr'
 title = 'SIAEP du Houlme'
