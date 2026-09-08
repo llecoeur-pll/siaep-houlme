@@ -15,6 +15,8 @@ Les analyses sont réalisées dans le cadre du contrôle sanitaire de l'Agence r
 
 Les quatre prélèvements physico-chimiques non conformes du réseau Houlme concernent des **métabolites de pesticides**. Les indicateurs réglementaires consolidés du service unifié sont de **100 %** pour la microbiologie et **91,8 %** pour les paramètres physico-chimiques.
 
+ddd
+
 ## Protection de la ressource
 
 L'indice global d'avancement de la protection de la ressource en eau est de **60 %**. Ce niveau correspond à la présence d'un arrêté préfectoral pour les ressources concernées ; le suivi de sa mise en œuvre reste l'étape suivante.
