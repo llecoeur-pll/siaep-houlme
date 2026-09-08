@@ -52,3 +52,59 @@ Le Comité Syndical a désigné trois représentants titulaires et trois représ
 | **Bruno AUVRAY** | **Jean-Luc LEPORTIER** |
 | **Loïc LECOEUR** | **Igor LOUBOFF** |
 | **Emmanuel LESECQ** | **Gilbert GUÉRIN** |
+
+## Délégués au Comité Syndical
+
+Le Comité Syndical réuni le 1er juin 2026 comptait **37 délégués présents sur 37 membres**. Les représentants sont répartis entre les communes adhérentes en direct, Flers Agglo et la Communauté de communes du Pays de Falaise.
+
+### Communes adhérentes en direct
+
+| Commune | Délégué(e) |
+| --- | --- |
+| Bazoches-au-Houlme | **Alix DAUGER** |
+| Champcerie | **Dominique PICHONNIER** |
+| Craménil | **Hubert PETIT** |
+| Faverolles | **Arnaud DODEMAND** |
+| La Lande-de-Lougé | **Jacques DROUIN** |
+| Les Yveteaux | **André MARIE** |
+| Lignou | **Jean-Claude BIGNON** |
+| Lougé-sur-Maire | **Sylvain GUILLAIS** |
+| Ménil-Gondouin | **Céline VIEL** |
+| Ménil-Hermei | **Katia HALLUIN** |
+| Ménil-Vin | **Régis DUCHESNE** |
+| Montreuil-au-Houlme | **Maurane BLOTTIERE** |
+| Neuvy-au-Houlme | **Isabelle MOITEAUX** |
+| Putanges-le-Lac | **Sylvain GAUDIN** |
+| Putanges-le-Lac | **Loïc LECOEUR** |
+| Putanges-le-Lac | **Igor LOUBOFF** |
+| Saint-André-de-Briouze | **Jean-Joseph LECHERPY** |
+| Saint-Hilaire-de-Briouze | **Mickaël ROYER** |
+| Sainte-Honorine-la-Guillaume | **Benoît DUVAL** |
+
+### Communauté d'Agglomération du Pays de Flers
+
+| Délégué(e) |
+| --- |
+| **Bruno AUVRAY** |
+| **Marion DAVID** |
+| **Nicolas DAVY** |
+| **Rachel DELAPORTE** |
+| **Jacques FORTIS** |
+| **Jean-Marie GAUDIN** |
+| **Gilbert GUÉRIN** |
+| **Annette HAMMELIN** |
+| **Jean-Luc LEPORTIER** |
+| **Sandrine LEROYER** |
+| **Emmanuel LESECQ** |
+| **Bernard MÉSENGE** |
+| **Véronique NOËL** |
+| **Gilles PETIT** |
+| **Jérémy PRÉVOST** |
+| **Gilles RABACHE** |
+| **Marc SIMON** |
+
+### Communauté de communes du Pays de Falaise
+
+| Délégué(e) | Commune représentée |
+| --- | --- |
+| **Vincent LEMUNIER** | Les Isles-Bardel |

@@ -31,12 +31,6 @@ theme = 'siaep-houlme'
   weight = 20
 
 [[menus.main]]
-  name = 'Les compétences'
-  pageRef = '/le-syndicat/competences'
-  parent = 'le-syndicat'
-  weight = 30
-
-[[menus.main]]
   name = 'La gouvernance'
   pageRef = '/le-syndicat/gouvernance'
   parent = 'le-syndicat'
