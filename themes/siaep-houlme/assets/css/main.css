@@ -150,6 +150,10 @@ a { color: inherit; }
 .bar-chart__track { height: 1.1rem; overflow: hidden; background: white; border-radius: 99px; }
 .bar-chart__track i { display: block; height: 100%; background: linear-gradient(90deg, var(--primary), var(--secondary)); border-radius: inherit; }
 .bar-chart__row strong { text-align: right; color: var(--accent); }
+.map-gallery { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 1.5rem; margin-top: 2rem; }
+.map-gallery__item { margin: 0; overflow: hidden; background: white; border: 1px solid var(--surface); box-shadow: 0 8px 22px rgba(52, 64, 84, .08); }
+.map-gallery__item img { display: block; width: 100%; height: auto; }
+.map-gallery__item figcaption { padding: .85rem 1rem 1rem; color: var(--accent); font-family: "Merriweather", Georgia, serif; font-weight: 700; }
 
 @media (max-width: 900px) {
   .site-header__inner { align-items: flex-start; flex-direction: column; padding-block: 1.25rem; }
@@ -168,5 +172,6 @@ a { color: inherit; }
   .content table { min-width: 620px; }
   .bar-chart__row { grid-template-columns: 1fr; gap: .35rem; }
   .bar-chart__row strong { text-align: left; }
+  .map-gallery { grid-template-columns: 1fr; }
   .site-footer__inner { flex-direction: column; }
 }
