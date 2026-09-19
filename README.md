@@ -9,3 +9,5 @@ hugo server
 ```
 
 Le site est ensuite disponible sur `http://localhost:1313/`.
+
+et pouet !
